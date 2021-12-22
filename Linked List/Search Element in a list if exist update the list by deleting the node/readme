@@ -2,7 +2,7 @@ Search a key from the list
 
 IF exist
 
-update delete by deleting it
+update the list  by deleting the key(node)
 
 OTHERWIESE
 
