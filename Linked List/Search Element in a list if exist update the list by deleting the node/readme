@@ -1,0 +1,9 @@
+Search a key from the list
+
+IF exist
+
+update delete by deleting it
+
+OTHERWIESE
+
+print key not found...
